@@ -1,0 +1,11 @@
+c:\users\admin\documents\visual studio 2012\Projects\PLINQ\PLINQDemo\bin\Debug\PLINQDemo.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\PLINQ\PLINQDemo\bin\Debug\PLINQDemo.exe
+c:\users\admin\documents\visual studio 2012\Projects\PLINQ\PLINQDemo\bin\Debug\PLINQDemo.pdb
+c:\users\admin\documents\visual studio 2012\Projects\PLINQ\PLINQDemo\obj\Debug\PLINQDemo.exe
+c:\users\admin\documents\visual studio 2012\Projects\PLINQ\PLINQDemo\obj\Debug\PLINQDemo.pdb
+C:\Users\Student\Desktop\PLINQ\PLINQDemo\bin\Debug\PLINQDemo.exe.config
+C:\Users\Student\Desktop\PLINQ\PLINQDemo\obj\Debug\PLINQDemo.exe
+C:\Users\Student\Desktop\PLINQ\PLINQDemo\obj\Debug\PLINQDemo.pdb
+C:\Users\Student\Desktop\PLINQ\PLINQDemo\bin\Debug\PLINQDemo.exe
+C:\Users\Student\Desktop\PLINQ\PLINQDemo\bin\Debug\PLINQDemo.pdb
+C:\Users\Student\Desktop\PLINQ\PLINQDemo\obj\Debug\PLINQDemo.csprojResolveAssemblyReference.cache
